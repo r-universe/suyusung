@@ -1,0 +1,10 @@
+[
+  {
+    "package": "arm",
+    "oncran": true
+  },
+  {
+    "package": "R2jags",
+    "oncran": true
+  }
+]

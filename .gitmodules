@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "arm"]
+	path = arm
+	url = https://github.com/suyusung/arm
+	shallow = true
+	registered = true
+[submodule "R2jags"]
+	path = R2jags
+	url = https://github.com/suyusung/r2jags
+	shallow = true
+	registered = true
